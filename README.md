@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2> Through Azure
+<h2>List of Prerequisites</h2>
 
  Part 1 (Create Virtual Machine in Azure)
 - Create a Resource Group
