@@ -36,7 +36,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Jbr2621/OSticket-prereqs/assets/142756706/1b3c0fa0-2efb-48db-afaf-cce243d2ebe2)
+
 </p>
 <p>
  Install / Enable IIS in Windows WITH
